@@ -1,0 +1,25 @@
+{
+  "activeCanvasInfo" : 1,
+  "creationDate" : "2017-04-07T18:29:17-07:00",
+  "canvasInfos" : [
+    {
+      "presentationOptions" : {
+        "canvasScale" : 0,
+        "initialPlaybackDelay" : 0,
+        "cursor" : 2
+      },
+      "canvasSize" : "{363, 363}",
+      "timelineManager" : {
+        "pointsPerSecond" : 200
+      },
+      "canvasID" : 1,
+      "uuid" : "E3554185-77BF-4972-B6DB-F46DD816620C"
+    }
+  ],
+  "libraryItemName" : "Slider",
+  "previewImageAssetIdentifier" : "LibraryIcon.tiff",
+  "createdWithVersion" : "8",
+  "iconAssetIdentifier" : "LibraryIcon.tiff",
+  "uuid" : "2FBAD84B-C6A0-42D3-91AC-1297D65649E0",
+  "lastSavedWithVersion" : "9"
+}

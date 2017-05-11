@@ -1,0 +1,22 @@
+{
+  "activeCanvasInfo" : 1,
+  "canvasInfos" : [
+    {
+      "presentationOptions" : {
+        "canvasScale" : 0,
+        "initialPlaybackDelay" : 0.5,
+        "cursor" : 2
+      },
+      "canvasSize" : "{272, 340}",
+      "timelineManager" : {
+        "pointsPerSecond" : 200
+      },
+      "canvasID" : 1,
+      "uuid" : "445B369D-CCC1-44C3-A7B1-420FA07739EE"
+    }
+  ],
+  "createdWithVersion" : "9",
+  "lastSavedWithVersion" : "9",
+  "creationDate" : "2017-05-06T05:39:20-07:00",
+  "uuid" : "3295D916-8C23-47A4-81A6-29874E130450"
+}
