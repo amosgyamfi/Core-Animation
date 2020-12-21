@@ -1,6 +1,6 @@
 This is my repository for learning Kite Compositor. It consists of examples (animations and prototypes) and working files which helps one to understand how the prototype or animation is built.  
 
-<a href= "https://github.com/amosgyamfi/Core-Animation/blob/master/2021/map_animations.gif">Skillshare</a>
+<a href= "https://www.skillshare.com/classes/Animate-Apps-with-Kite-Compositor/342737656">Skillshare: Animate Apps with Kite Compositor</a>
 ![Map Animations](https://github.com/amosgyamfi/Core-Animation/blob/master/2021/map_animations.gif)
 
 <a href= "https://github.com/amosgyamfi/Core-Animation/blob/master/2021/custom_curved_path.gif">Gist: Swift Code</a>
