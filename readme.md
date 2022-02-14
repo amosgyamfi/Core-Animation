@@ -1,4 +1,7 @@
-This is my repository for learning Kite Compositor. It consists of examples (animations and prototypes) and working files which helps one to understand how the prototype or animation is built.  
+All the animations here are generated with Kite Compositor. Each has the Swift file attached.   
+
+**Valentine Emitter:** <a href= "https://gist.github.com/amosgyamfi/4d2e475aa47b00ef4be0df0aa19dbb1e#file-valentineemitter-swift"> Gist</a>
+![Valentine Emitter](https://github.com/amosgyamfi/Core-Animation/blob/master/EmitterLayers/valentingEmission.gif)
 
 <a href= "https://www.skillshare.com/classes/Animate-Apps-with-Kite-Compositor/342737656">Skillshare: Animate Apps with Kite Compositor</a>
 ![Map Animations](https://github.com/amosgyamfi/Core-Animation/blob/master/2021/map_animations.gif)
